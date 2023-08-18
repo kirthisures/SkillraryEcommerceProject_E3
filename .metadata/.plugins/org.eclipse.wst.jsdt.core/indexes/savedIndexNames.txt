@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Selenium\Basic_seleinum\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3070212668.index
+4083492722.index
+638560908.index
+3099477507.index
+2736318078.index
